@@ -60,3 +60,6 @@ var Lightbox = {
 };
 
 // desafio: passar largura e altura da lightbox dinamicamente
+// sugestao: lightbox vermelha abre em tamanho grande,
+//           lightbox verde abre em tamanho medio,
+//           lightbox azul abre em tamanho pequeno
