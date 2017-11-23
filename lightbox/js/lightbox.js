@@ -58,3 +58,5 @@ var Lightbox = {
         container.appendTo($('body'));
     }
 };
+
+// desafio: passar largura e altura da lightbox dinamicamente
